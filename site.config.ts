@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '08522204945d4250af4b527fa794ab30',
+  rootNotionPageId: 'Fanning-Zhang-29da5a255975451c943a61ae538371e5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Fanning Zhang',
-  domain: 'https://hlzhang.notion.site/08522204945d4250af4b527fa794ab30',
+  domain: 'https://hlzhang.notion.site/Fanning-Zhang-29da5a255975451c943a61ae538371e5',
   author: 'Fanning Zhang',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'Fanning-Zhang',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
