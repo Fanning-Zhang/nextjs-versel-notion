@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Fanning Zhang',
-  domain: 'https://hlzhang.notion.site/Fanning-Zhang-29da5a255975451c943a61ae538371e5',
+  domain: 'https://fanningzhang.notion.site/Fanning-Zhang-29da5a255975451c943a61ae538371e5',
   author: 'Fanning Zhang',
 
   // open graph metadata (optional)
