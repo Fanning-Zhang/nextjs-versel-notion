@@ -1,4 +1,7 @@
 import { PageProps } from './types'
+// This file is used to check the page access permissions. 
+// If the page does not exist, or the page does not belong to the 
+// specified Notion site, the function will return the corresponding error message.
 
 export async function pageAcl({
   site,

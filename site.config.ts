@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Fanning Zhang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Fanning Zhang\'s homepage',
 
   // social usernames (optional)
   twitter: 'Fanning_Hz',
